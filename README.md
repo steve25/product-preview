@@ -33,7 +33,7 @@ Its my second try here. Check my solution and if you have a idea, how to improve
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/steve25/product-preview)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://steve25.github.io/product-preview/)
 
 ### Built with
 
